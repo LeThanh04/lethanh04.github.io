@@ -1,7 +1,7 @@
 ---
 title: "Week 7 Worklog"
 date: 2026-06-01
-weight: 1
+weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
@@ -16,8 +16,7 @@ pre: " <b> 1.7. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - An Overview of AWS Lambda and the Serverless Model                                                                                              | 06/01/2026 | 06/01/2026 |
-<https://cloudjourney.awsstudygroup.com/> |
+| 2   | - An Overview of AWS Lambda and the Serverless Model                                                                                   | 06/01/2026 | 06/01/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 3   | - Read the AWS documentation to understand the operating principles and use cases of Lambda functions <br> - **Practice:** <br>&emsp; + Practice creating a Lambda function on the AWS Management Console                                                                                            | 06/02/2026 | 06/03/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Understanding Event Triggers and the Lambda Triggering Process                           | 06/04/2026 | 06/04/2026 | <https://cloudjourney.awsstudygroup.com/> | 
 | 5   | - Learn how AWS Lambda works with Amazon DynamoDB <br> - Observe the data read and write flows between Lambda and DynamoDB via the documentation                                                                     | 06/05/2026 | 06/05/2026 | <https://cloudjourney.awsstudygroup.com/> |

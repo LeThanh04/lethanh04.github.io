@@ -20,7 +20,7 @@ pre: " <b> 1.1. </b> "
 | 3   | - Đăng ký tài khoản AWS Free Tier <br> - Truy cập Bảng điều khiểnn AWS                    | 18/04/2026 | 18/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Research các kiến thức về AWS và các kiến thức trên Youtube theo lộ trình của công ty để thực hiện các bài labs tiếp theo                                                                                              | 19/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Tìm hiểu AWS Console và các dịch vụ chính: <br>&emsp; + IAM <br>&emsp; + VPC <br>&emsp; + EC2 <br>&emsp; + RDS <br>&emsp; + ...                                                                                       | 21/04/2026 | 22/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + - Thực hiện 5 task cơ bản AWS                               | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - **Thực hành:** <br>&emsp; + - Thực hiện 5 task cơ bản AWS                       | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 1:

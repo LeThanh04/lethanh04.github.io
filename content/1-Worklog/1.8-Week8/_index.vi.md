@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 8"
 date: 2026-06-08
-weight: 1
+weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
@@ -15,8 +15,7 @@ pre: " <b> 1.8. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                            | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu tham khảo                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu tổng quan về Amazon API Gateway <br> - Đọc tài liệu AWS để hiểu vai trò của API Gateway trong việc xây dựng API                                                                                   | 08/06/2026 | 08/06/2026 | 
-<https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Tìm hiểu tổng quan về Amazon API Gateway <br> - Đọc tài liệu AWS để hiểu vai trò của API Gateway trong việc xây dựng API                                                                               | 08/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3   | - **Thực hành:** <br>&emsp; + Tạo REST API trên API Gateway <br>&emsp; + Tích hợp API Gateway với AWS Lambda                                                                                | 09/06/2026 | 09/06/2026 | 
 <https://cloudjourney.awsstudygroup.com/> |                                                                                    
 | 4   | - **Thực hành:** <br>&emsp; + Thực hành triển khai (Deploy) API <br> - Tìm hiểu khái niệm Stage và Endpoint sau khi triển khai API                                                                        | 10/06/2026 | 11/06/2026 | 

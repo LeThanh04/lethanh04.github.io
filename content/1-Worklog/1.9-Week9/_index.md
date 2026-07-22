@@ -1,7 +1,7 @@
 ---
 title: "Week 9 Worklog"
 date: 2026-06-15
-weight: 1
+weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
@@ -17,12 +17,10 @@ pre: " <b> 1.9. </b> "
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 2   | - Check out architectural drawing tutorials on YouTube <br> - Analyze system requirements and functions                                                                                         | 06/15/2026 | 06/15/2026 | <https://youtu.be/l8isyDe-GwY?si=Gz_zMkISrOIKLGYg> |
-| 3   | - Select the appropriate AWS services for deployment on the architecture <br> - Design the deployment architecture diagram on AWS                                                                                    | 06/16/2026 | 06/16/2025 | 
-| 4   | - Integrate Amazon DynamoDB and Amazon S3 into the system <br> 
-- Verify that invoice data and images are stored in accordance with the design                    | 06/17/2026 | 06/17/2026 |
+| 3   | - Select the appropriate AWS services for deployment on the architecture <br> - Design the deployment architecture diagram on AWS                                                                                    | 06/16/2026 | 06/16/2026 | 
+| 4   | - Integrate Amazon DynamoDB and Amazon S3 into the system <br> - Verify that invoice data and images are stored in accordance with the design                    | 06/17/2026 | 06/17/2026 |
 | 5   | - Configure Amazon API Gateway to accept requests from users <br> - Check the connection between API Gateway and AWS Lambda                                                                                            | 06/18/2026 | 06/19/2026 | 
-| 6   | - Perform integration testing between AWS services <br> - 
-Document any issues that arise and discuss the course of action with the team                                                                                              | 06/20/2026 | 06/21/2026 | 
+| 6   | - Perform integration testing between AWS services <br> - Document any issues that arise and discuss the course of action with the team                                                                                              | 06/20/2026 | 06/21/2026 | 
 
 
 ### Week 9 Achievements:

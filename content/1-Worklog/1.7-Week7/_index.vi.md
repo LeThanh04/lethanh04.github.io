@@ -1,7 +1,7 @@
 ---
 title: "Worklog Tuần 7"
 date: 2026-06-01
-weight: 1
+weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
@@ -15,8 +15,7 @@ pre: " <b> 1.7. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu tổng quan về AWS Lambda và mô hình Serverless                                                                                   | 01/06/2026 | 01/06/2026 |
-<https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Tìm hiểu tổng quan về AWS Lambda và mô hình Serverless                                                                             | 01/06/2026 | 01/06/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 3   | - Đọc tài liệu AWS để hiểu nguyên lý hoạt động của Lambda Function và các trường hợp sử dụng <br> - **Thực hành:** <br>&emsp; + Thực hành tạo Lambda Function trên AWS Management Console                       | 02/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Tìm hiểu Event Trigger và quy trình kích hoạt Lambda                               | 04/06/2026 | 04/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Tìm hiểu cách AWS Lambda làm việc với Amazon DynamoDB <br> - Quan sát luồng đọc và ghi dữ liệu giữa Lambda và DynamoDB thông qua tài liệu                                                                  | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |

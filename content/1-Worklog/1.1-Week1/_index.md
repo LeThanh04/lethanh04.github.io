@@ -20,7 +20,7 @@ pre: " <b> 1.1. </b> "
 | 3   | - Register for an AWS Free Tier account <br> - Access the AWS Management Console          | 04/18/2026 | 04/18/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Research AWS concepts and YouTube resources in accordance with the company's roadmap to complete the subsequent labs                                                                                              | 04/19/2026 | 04/21/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Explore the AWS Console and key services: <br>&emsp; + IAM <br>&emsp; + AMI <br>&emsp; + EC2 <br>&emsp; + RDS <br>&emsp; + ...                                                                                       | 04/21/2026 | 04/22/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Perform 5 basic AWS tasks                            | 04/24/2026 | 04/24/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - **Practice:** <br>&emsp; + Perform 5 basic AWS tasks                          | 04/24/2026 | 04/24/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Week 1 Achievements:

@@ -94,7 +94,8 @@ A key message from the blog is very impressive:
 
 ## Image
 
-![Physical AI in Healthcare](/LTPT-fcj-workshop/static/images/3-Blog/Blog2)
+[Physical AI in Healthcare]
+![alt text](Blog2.png)
 
 ## Reference Link
 

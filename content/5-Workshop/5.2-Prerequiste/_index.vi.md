@@ -30,7 +30,7 @@ Dự án được deploy tại AWS Region:
 ```text
 ap-southeast-1
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/aws-region-singapore.png" alt="AWS Singapore Region" width="1300">
+![alt text](aws-region-singapore-1.png)
 
 
 Đây là region Singapore.

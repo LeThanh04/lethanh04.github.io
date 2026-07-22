@@ -78,7 +78,8 @@ Flutter frontend và Admin Web hiện đang chạy local trong giai đoạn phá
 ## Công nghệ và cấu trúc dự án hiện tại
 
 Source code dự án được chia thành ba phần chính:
-![Cấu trúc thư mục dự án AWS BILLO](/NTH-DUY-fcaj-workshop/images/5-Workshop/project-structure.png)
+[Cấu trúc thư mục dự án AWS BILLO]
+![alt text](<Screenshot 2026-07-11 065712-1.png>)
 
 ---
 

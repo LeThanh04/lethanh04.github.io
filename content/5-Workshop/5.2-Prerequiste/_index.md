@@ -30,7 +30,7 @@ The project is deployed in the following AWS Region:
 ```text
 ap-southeast-1
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/aws-region-singapore.png" alt="AWS Singapore Region" width="1300">
+![alt text](aws-region-singapore.png)
 
 This is the Singapore Region.
 

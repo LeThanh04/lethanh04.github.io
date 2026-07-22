@@ -85,7 +85,7 @@ Kiến trúc này không yêu cầu Amazon EC2, custom VPC, NAT Gateway hoặc R
 
 ### 4. AWS BILLO System Architecture
 
-<img src="/LTPT-fcj-workshop/static/images/2-Proposal" alt="AWS BILLO System Architecture" width="1300">
+![alt text](project-structure-1.png)
 
 1. Người dùng tương tác với Ứng dụng Di động Flutter
 

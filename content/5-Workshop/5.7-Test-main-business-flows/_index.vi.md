@@ -328,7 +328,7 @@ Mở:
 ```text
 DynamoDB > Tables > wallet-app-main-dev
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/maindev.png" alt="AWS dynamoDB-Tables - Maindev" width="1300">
+![alt text](<Screenshot 2026-07-11 072104-1.png>)
 
 Kiểm tra các record liên quan đến:
 

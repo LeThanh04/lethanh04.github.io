@@ -116,8 +116,8 @@ Tuy nhiên, dữ liệu y tế đòi hỏi các kiểm soát nghiêm ngặt về
 
 ## Hình ảnh
 
-![Physical AI in Healthcare](/LTPT-fcj-workshop/static/images/3-Blog/Blog3)
-
+[Physical AI in Healthcare]
+![alt text](Blog3-1.png)
 ## Link tham khảo
 
 https://aws.amazon.com/vi/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/

@@ -39,7 +39,7 @@ Open the AWS Management Console and go to:
 ```text id="5bv8be"
 CloudWatch > Logs > Log groups
 ```
-![CloudWatch Logs](/NTH-DUY-fcaj-workshop/images/5-Workshop/cloudwatch-logs.png)
+![alt text](<Screenshot 2026-07-11 072207.png>)
 Search for log groups related to the AWS BILLO Lambda functions.
 
 Lambda log groups usually follow this format:
@@ -102,7 +102,7 @@ Open:
 ```text id="n1c8z9"
 DynamoDB > Tables > wallet-app-main-dev
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/maindev.png" alt="AWS dynamoDB-Tables - Maindev" width="1300">
+![alt text](<Screenshot 2026-07-11 072233-2.png>)
 
 Check whether expected records exist after running the demo.
 
@@ -156,7 +156,7 @@ Open:
 ```text id="0ct1l5"
 Amazon Cognito > User pools > Users
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/c-user.png" alt="Amazon Cognito > User pools > Users" width="1300">
+![alt text](<Screenshot 2026-07-11 072259-1.png>)
 
 Check the user account created during the demo.
 
@@ -203,7 +203,7 @@ Expected successful statuses include:
 CREATE_COMPLETE
 UPDATE_COMPLETE
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/stack.png" alt="CloudFormation > Stacks" width="1300">
+![alt text](<Screenshot 2026-07-11 072341-1.png>)
 
 
 If the stack failed during deployment, open the **Events** tab and review the failed resource.
@@ -261,7 +261,7 @@ Choose:
 ```text id="13h4c5"
 Delete
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/delete.png" alt="Delete" width="1300">
+![alt text](<Screenshot 2026-07-11 072405-1.png>)
 
 Confirm the deletion.
 
@@ -315,7 +315,7 @@ To reduce cost, configure log retention:
 ```text id="i2g5l9"
 CloudWatch > Logs > Log groups > Select log group > Retention settings
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/rent.png" alt="rentetion" width="1300">
+![alt text](<Screenshot 2026-07-11 072438.png>)
 
 
 Recommended retention for development:
@@ -325,7 +325,7 @@ Recommended retention for development:
 14 days
 30 days
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/setting.png" alt="rentetion" width="900">
+![alt text](<Screenshot 2026-07-11 072501-1.png>)
 
 
 

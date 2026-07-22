@@ -86,7 +86,7 @@ Merchant
 Admin
 ```
 
-![Cognito User Groups](/NTH-DUY-fcaj-workshop/images/5-Workshop/cognito-user-groups.png)
+![alt text](<Screenshot 2026-07-11 071106-1.png>)
 
 ### Customer Group
 
@@ -243,7 +243,7 @@ Mở:
 ```text
 DynamoDB > Tables > wallet-app-main-dev
 ```
-<img src="/NTH-DUY-fcaj-workshop/images/maindev.png" alt="AWS dynamoDB-Tables - Maindev" width="1300">
+![alt text](<Screenshot 2026-07-11 071139.png>)
 
 
 Kiểm tra profile và wallet record đã được tạo cho người dùng mới.

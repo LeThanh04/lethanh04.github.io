@@ -85,7 +85,7 @@ The architecture does not require Amazon EC2, custom VPC, NAT Gateway, or RDS be
 
 ### 4. AWS BILLO System Architecture
 
-<img src="/LTPT-fcj-workshop/static/images/2-Proposal" alt="AWS BILLO System Architecture" width="1300">
+![alt text](project-structure.png)
 
 1. User interacts with Flutter Mobile App
 

@@ -85,7 +85,7 @@ npm run dev
 ```
 
 Kết quả mong đợi:
-![Admin Web Local Demo](/NTH-DUY-fcaj-workshop/images/5-Workshop/admin-web-local-demo.png)
+![alt text](<Screenshot 2026-07-11 071521-1.png>)
 
 ```text
 VITE ready

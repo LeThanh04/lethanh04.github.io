@@ -116,8 +116,8 @@ However, healthcare data requires strict security, privacy, and compliance contr
 
 ## Image
 
-![Physical AI in Healthcare](/LTPT-fcj-workshop/static/images/3-Blog/Blog3)
-
+[Physical AI in Healthcare]
+![alt text](Blog3.png)
 ## Reference Link
 
 https://aws.amazon.com/vi/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/

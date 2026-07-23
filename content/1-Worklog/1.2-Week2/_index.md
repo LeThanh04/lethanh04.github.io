@@ -15,8 +15,7 @@ pre: " <b> 1.2. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Review the AWS Console & CLI knowledge learned in Week 1                                                                                                | 04/27/2026 | 04/27/2026 |
-<https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Review the AWS Console & CLI knowledge learned in Week 1                                                                                       | 04/27/2026 | 04/27/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 3   | - Set up AWS Budgets, configure alert thresholds, and track incurred costs                                                                                            | 04/28/2026 | 04/28/2026 |  <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Explore Site-to-Site VPN and Client VPN architectures, and examine network connection diagrams | 04/29/2026 | 04/29/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - **Practice:** <br>&emsp; + Create an admin user, assign a policy, and verify access permissions                                                                                      | 04/30/2026 | 04/30/2026 | <https://cloudjourney.awsstudygroup.com/> |

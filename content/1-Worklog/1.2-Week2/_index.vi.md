@@ -15,7 +15,7 @@ pre: " <b> 1.2. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                           | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu tham khảo                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Ôn tập lại kiến ​​thức về AWS Console & CLI đã học từ tuần 1                              | 27/04/2026 | 27/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Ôn tập lại kiến ​​thức về AWS Console & CLI đã học từ tuần 1                    | 27/04/2026 | 27/04/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 3   | - Thiết lập AWS Budgets, cấu hình ngưỡng cảnh báo và theo dõi chi phí phát sinh           | 28/04/2026 | 28/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Tìm hiểu kiến trúc VPN Site-to-Site và Client VPN, quan sát sơ đồ kết nối mạng                                                                                              | 29/04/2026 | 29/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - **Thực hành:** <br>&emsp; + Tạo Admin User, gán Policy và kiểm tra quyền truy cập       | 30/04/2026 | 30/04/2026 | <https://cloudjourney.awsstudygroup.com/> |

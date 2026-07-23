@@ -16,8 +16,7 @@ pre: " <b> 1.5. </b> "
    | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu tham khảo                           |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 2   | - Tìm hiểu tổng quan về Amazon S3 và các thành phần của dịch 
-vụ                                                                                         | 18/05/2026 | 18/05/2026 |
-<https://cloudjourney.awsstudygroup.com/> |
+vụ                                                                              | 18/05/2026 | 18/05/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 3   | - Tìm hiểu Bucket Policy, Access Control và quyền truy cập dữ liệu                 | 19/05/2026 | 19/05/2026 |       
 <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Tìm hiểu khả năng tích hợp giữa Amazon S3 với các dịch vụ AWS khác               | 20/05/2026 | 20/08/2026 | <https://cloudjourney.awsstudygroup.com/> |

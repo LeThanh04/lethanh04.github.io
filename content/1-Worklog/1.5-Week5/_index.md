@@ -14,8 +14,7 @@ pre: " <b> 1.5. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - An overview of Amazon S3 and the service's components                                                                                         | 05/18/2026 | 05/18/2026 |
-<https://cloudjourney.awsstudygroup.com/> |
+| 2   | - An overview of Amazon S3 and the service's components                                                                                | 05/18/2026 | 05/18/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 3   | - Understanding Bucket Policies, Access Control, and Data Access Permissions                                                                                        | 05/19/2026 | 05/19/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4   | - Explore the integration capabilities between Amazon S3 and other AWS services            | 05/20/2026 | 05/20/2026 |<https://cloudjourney.awsstudygroup.com/> |
 | 5   | - **Practice:** <br>&emsp; + Create S3 Bucket <br>&emsp; + Configure access permissions (Bucket Policy)                                                                                            | 05/21/2026 | 05/22/2026 | <https://cloudjourney.awsstudygroup.com/> |
